@@ -1,0 +1,381 @@
+i attatched to the stationary position antena at the angle 62 degrees to the horizon. directed to the south direction. it was placed on the 25 meters tall berea college woodspen observation tower. and there was a hill nearby---with the total height about 45 meters above the alumni field and other directions ground. it was placed without balloon.
+
+PARKING (37.56984642688049, -84.28945811679186) - 98.40 m:
+646
+================================
+
+================================
+  Packet : #67  rx=74  lost=1
+  RSSI   : -63 dBm
+  Lat    : 37.570679
+  Lon    : -84.289646
+  Alt    : 309.0 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289646
+================================
+
+2nd (37.56693797635037, -84.28813343237125) -- Total distance: 1,436.72 ft (437.91 m); not sure exact location:
+
+================================
+  Packet : #97  rx=104  lost=1
+  RSSI   : -73 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.2 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+hiking (37.56572729071494, -84.28803218585969) - Total distance: 1,875.79 ft (571.74 m):
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.2 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #99  rx=106  lost=1
+  RSSI   : -73 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.2 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+church (37.561318248070314, -84.28601229208856) - Total distance: 3,592.88 ft (1.10 km):
+================================
+  Packet : #106  rx=112  lost=2
+  RSSI   : -96 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.2 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+!! No packet  rx=112  lost=3
+
+dead end (37.5618228196519, -84.28292129245722) - Total distance: 3,785.58 ft (1.15 km):
+
+=== Base Station ready ===
+Waiting for tracker...
+
+================================
+  Packet : #125  rx=1  lost=0
+  RSSI   : -96 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.1 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+
+feathless (37.552107137122434, -84.27652555635703) - Total distance: 1.47 mi (2.37 km):
+!! No packet  rx=0  lost=1
+
+!! No packet  rx=0  lost=2
+
+!! No packet  rx=0  lost=3
+
+!! No packet  rx=0  lost=4
+
+!! No packet  rx=0  lost=5
+
+!! No packet  rx=0  lost=6
+
+Warning: CRC error, packet ignored
+!! No packet  rx=0  lost=7
+
+!! No packet  rx=0  lost=8
+
+!! No packet  rx=0  lost=9
+
+!! No packet  rx=0  lost=10
+
+!! No packet  rx=0  lost=11
+
+!! No packet  rx=0  lost=12
+
+
+
+bratchet (37.554604789704825, -84.27961937561942) - Total distance: 1.24 mi (1.99 km):
+
+================================
+  Packet : #209  rx=1  lost=16
+  RSSI   : -98 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.0 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+bethlest baptist (37.55912822063247, -84.28295287198122) - Total distance: 4,636.75 ft (1.41 km):
+
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #216  rx=4  lost=19
+  RSSI   : -101 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.1 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+Warning: CRC error, packet ignored
+!! No packet  rx=4  lost=20
+
+!! No packet  rx=4  lost=21
+
+Warning: CRC error, packet ignored
+!! No packet  rx=4  lost=22
+
+================================
+  Packet : #220  rx=5  lost=22
+  RSSI   : -100 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.1 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+!! No packet  rx=5  lost=23
+
+dead end (37.56180728232156, -84.28295287198151) - Total distance: 3,761.26 ft (1.15 km):
+
+
+================================
+  Packet : #220  rx=5  lost=22
+  RSSI   : -100 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.1 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+!! No packet  rx=5  lost=23
+
+!! No packet  rx=5  lost=24
+
+!! No packet  rx=5  lost=25
+
+!! No packet  rx=5  lost=26
+
+================================
+  Packet : #227  rx=6  lost=26
+  RSSI   : -95 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.2 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+Warning: CRC error, packet ignored
+!! No packet  rx=6  lost=27
+
+sweet barkery (37.556971100343965, -84.28159328151847) - Total distance: 1.06 mi (1.70 km):
+
+Warning: CRC error, packet ignored
+!! No packet  rx=10  lost=38
+
+!! No packet  rx=10  lost=39
+
+================================
+  Packet : #247  rx=11  lost=39
+  RSSI   : -97 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.4 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #248  rx=12  lost=39
+  RSSI   : -98 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.4 m
+  Sats   : 8
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+
+freathned scaffold (37.552339327656235, -84.27670321852564) - Total distance: 1.45 mi (2.33 km):
+
+Warning: CRC error, packet ignored
+!! No packet  rx=10  lost=38
+
+!! No packet  rx=10  lost=39
+
+================================
+  Packet : #247  rx=11  lost=39
+  RSSI   : -97 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.4 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #248  rx=12  lost=39
+  RSSI   : -98 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.4 m
+  Sats   : 8
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+angle (37.54925063827785, -84.27274659772134) - Total distance: 1.74 mi (2.81 km):
+
+
+!! No packet  rx=14  lost=47
+
+!! No packet  rx=14  lost=48
+
+Warning: CRC error, packet ignored
+!! No packet  rx=14  lost=49
+
+!! No packet  rx=14  lost=50
+
+================================
+  Packet : #265  rx=15  lost=50
+  RSSI   : -98 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 309.6 m
+  Sats   : 9
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+bridge (37.56633726203193, -84.2880722281514) - Total distance: 1,652.19 ft (503.59 m):
+
+================================
+  Packet : #429  rx=7  lost=42
+  RSSI   : -89 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 312.3 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #430  rx=8  lost=42
+  RSSI   : -88 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 312.3 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+antena is directed to the south. all of this time, i was directed to the south, and now i am going to the north: so there is some concrete, dorms, inside campus:
+
+alumni cirlce (37.57106174882845, -84.28880332817208) - Total distance: 262.58 ft (80.03 m):
+
+  RSSI   : -78 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 312.4 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #437  rx=15  lost=42
+  RSSI   : -82 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 312.5 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #438  rx=16  lost=42
+  RSSI   : -89 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 312.5 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+
+chestnut mall flags (37.56835919487747, -84.2971488223792) - Total distance: 2,349.65 ft (716.17 m):
+o packet  rx=18  lost=96
+
+================================
+  Packet : #523  rx=19  lost=96
+  RSSI   : -97 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 313.5 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+pressers (37.570383766066435, -84.29258124956935) - Total distance: 873.51 ft (266.25 m):
+d
+!! No packet  rx=19  lost=101
+
+================================
+  Packet : #530  rx=20  lost=101
+  RSSI   : -95 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 313.6 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #531  rx=21  lost=101
+  RSSI   : -97 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 313.6 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+pressers parking (37.56937392349656, -84.29224557253059) - Total distance: 909.05 ft (277.08 m):
+
+  Lon    : -84.289675
+  Alt    : 313.6 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #535  rx=24  lost=102
+  RSSI   : -81 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 313.6 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
+================================
+  Packet : #536  rx=25  lost=102
+  RSSI   : -82 dBm
+  Lat    : 37.570679
+  Lon    : -84.289675
+  Alt    : 313.6 m
+  Sats   : 10
+maps.google.com/?q=37.570679,-84.289675
+================================
+
